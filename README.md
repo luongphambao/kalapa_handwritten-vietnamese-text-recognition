@@ -32,6 +32,8 @@ bash TextRecognitionDataGenerator/generate_data.sh
 ```
 ### 2.3. Training 
 
+You prepare data in `OCR/training_data/images` folder and `train.txt` and `val.txt` file in `OCR/training_data` folder have same format with `data.txt` file.
+
 You can edit config in `train_vietocr.py` and  `train_vietocr_qualitazation.py` for training with your own parameters. 
 
 ```python
