@@ -1,0 +1,5 @@
+*.csv
+__MACOSX
+OCR
+__pycache__
+vietocr/__pycache__
